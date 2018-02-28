@@ -1,5 +1,5 @@
 public class Min {
-	//GoCD CI 
+	//Testing thew new CI
 	public static int find_min(int[] a) {
 		int x, i;
 		x = a[0];
