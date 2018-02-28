@@ -1,2 +1,2 @@
 # testDemo
-A Java class with its JUnit test.
+Continous Integration test framework with GoCD and Docker 
